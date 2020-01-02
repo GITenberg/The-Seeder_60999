@@ -1,11 +1,16 @@
 _repo: The-Seeder_60999
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60999-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Max
     gutenberg_agent_id: '51218'
     url: http://www.gutenberg.org/2009/agents/51218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60999#The-Seeder
 gutenberg_issued: '2019-12-22'
 gutenberg_type: Text
 identifiers:
